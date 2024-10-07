@@ -1,7 +1,7 @@
 # apoc
 
 
-Run from a local box folder , "git clone https://github.com/sekharvy/apoc.git"
+To Run from a local box folder , run the command "git clone https://github.com/sekharvy/apoc.git" 
 
 To Run Mocking Prject.
 
