@@ -1,21 +1,7 @@
 # apoc
 
-To Create a repo
 
-echo "# poc" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/sekharvy/poc.git
-git push -u origin main
-
-
-…or To push an existing repository from the command line
-git remote add origin https://github.com/sekharvy/poc.git
-git branch -M main
-git push -u origin main
-
+Run from a local box folder , "git clone https://github.com/sekharvy/apoc.git"
 
 To Run Mocking Prject.
 
