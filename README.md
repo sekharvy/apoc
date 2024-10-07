@@ -5,14 +5,14 @@ Run from a local box folder , "git clone https://github.com/sekharvy/apoc.git"
 
 To Run Mocking Prject.
 
-1. Import demo maven project into intelliJ 
+1. Import demo maven project into intelliJ , in a new window.
 2. Open Terminal and run the command to build the project > ./gradlew clean build 
 3. Run the command to up the mocking services > ./gradlew bootRun   
 
 
 To Run Test cases written in RestAssured using Testng unit testing framework.
 
-1. Import Test maven project
+1. Import Test maven project into intelliJ in a new window
 2. Navigate to src/test/java/org/example folder
 3. Open any Test classes written in testNG
 4. Select any test class name ex - "FolderPermissionControllerTest" , right clik and select Run..., to run all test cases from that class
