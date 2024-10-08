@@ -18,6 +18,8 @@ To Run Test cases written in RestAssured using Testng unit testing framework.
 4. Select any test class name ex - "FolderPermissionControllerTest" , right clik and select Run..., to run all test cases from that class
 5. To run a specific class , select test case ex: "testAddPermissionSet" , right click and run the test case
 
-   
+Softwares Required : 
+IntelliJ Community , Java 18 , git
+
 Note : 
 To select run the spark solution, Need to have AWS account and setup IAM policies to run Glue job and use specific S3 bucket for usage.
