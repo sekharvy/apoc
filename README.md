@@ -22,4 +22,4 @@ Softwares Required :
 IntelliJ Community , Java 18 , git
 
 Note : 
-To select run the spark solution, Need to have AWS account and setup IAM policies to run Glue job and use specific S3 bucket for usage.
+To run the spark solution in task2 , Need to have AWS account and setup IAM policies to run Glue job and use specific S3 bucket for usage.
